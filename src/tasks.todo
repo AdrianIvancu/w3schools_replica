@@ -1,0 +1,27 @@
+#Agenda
+
+✔ See our website online @done (5/2/2018, 9:35:53 PM)
+  ✔ use "npm run deploy" which you can find in the readme file of pug-starter @done (5/2/2018, 9:35:54 PM)
+✔ Identify repeatable areas and @done (5/2/2018, 9:52:34 PM)
+  ✔ create a template for the layout @done (5/2/2018, 9:45:16 PM)
+  ✔ extract header, footer and nav into components @done (5/2/2018, 9:52:23 PM)
+✔ Use JavaScript variables to pass data throught pug files @done (5/2/2018, 10:34:55 PM)
+✔ Refactor header using "each" loop @done (5/2/2018, 10:34:55 PM)
+✔ Refactor nav using "each" loop @done (5/2/2018, 10:59:56 PM)
+☐ Create multiple pages
+  ☐ Home
+    ☐HTML
+      ☐ elements
+      ☐ attributes
+      ☐ headings
+    ☐ CSS
+      ☐ colors
+      ☐ backgrounds
+      ☐ borders
+    ☐ JavaScript
+      ☐ comments
+      ☐ variables
+      ☐ operators
+☐ Redeploy and fix the style.css path for github.io pages
+☐ The end - The next project will be "me awesome resume"
+
